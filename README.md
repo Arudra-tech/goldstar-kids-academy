@@ -1,6 +1,6 @@
 # Goldstar Kids Academy — Website
 
-A single-page marketing website for Goldstar Kids Academy, a daycare in Monmouth County (Freehold), NJ.
+A single-page marketing website for Goldstar Kids Academy, a daycare in Freehold, NJ (Monmouth County).
 
 ## Features
 - Sticky "Schedule a Tour" CTA header
